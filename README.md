@@ -26,11 +26,11 @@ Technologies utilisées
 
 Installation du projet
 
-1. Télécharger en ZIP
-2. Placer le projet dans le dossier `www` de WAMP
+1. Télécharger chaque page une par une
+2. Créer un dossier dans `www` de WAMP et placer tout les fichiers .php dedans
 3. Démarrer WAMP
-4. Importer le fichier `optibook.sql` dans "phpMyAdmin"
-5. Accéder au site via : `http://localhost/optibook/`
+4. Importer le fichier `optiboook.sql` dans "phpMyAdmin"
+5. Accéder au site via : `http://localhost/optiboook/`
 
 
 Présentation :
