@@ -35,4 +35,4 @@ Installation du projet
 
 Présentation :
 
-Canva : https://www.canva.com/design/DAGpSpN-lMA/fF_5J0XrEU04WWhBmaXmGg/edit
+Canva : https://www.canva.com/design/DAGpSpN-lMA/fF_5J0XrEU04WWhBmaXmGg/edit?utm_content=DAGpSpN-lMA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
